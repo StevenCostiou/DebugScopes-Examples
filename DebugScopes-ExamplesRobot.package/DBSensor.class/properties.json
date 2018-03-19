@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DebugScopes-ExamplesRobot",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"readValue"
+	],
+	"name" : "DBSensor",
+	"type" : "normal"
+}

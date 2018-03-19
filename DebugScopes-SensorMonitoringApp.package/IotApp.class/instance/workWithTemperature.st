@@ -1,0 +1,3 @@
+accessing
+workWithTemperature
+	Transcript crShow: temperatureSensor readTemperature

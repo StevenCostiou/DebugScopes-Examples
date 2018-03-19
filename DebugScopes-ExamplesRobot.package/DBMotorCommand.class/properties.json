@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DebugScopes-ExamplesRobot",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"power",
+		"command"
+	],
+	"name" : "DBMotorCommand",
+	"type" : "normal"
+}

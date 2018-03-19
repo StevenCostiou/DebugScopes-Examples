@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DebugScopes-ExamplesRobot",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"leftMotor",
+		"rightMotor"
+	],
+	"name" : "DBDualMotor",
+	"type" : "normal"
+}

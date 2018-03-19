@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DebugScopes-SensorMonitoringApp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"started",
+		"process",
+		"lightSensor",
+		"temperatureSensor"
+	],
+	"name" : "IotApp",
+	"type" : "normal"
+}

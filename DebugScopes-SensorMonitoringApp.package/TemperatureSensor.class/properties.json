@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GenericSensor",
+	"category" : "DebugScopes-SensorMonitoringApp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TemperatureSensor",
+	"type" : "normal"
+}

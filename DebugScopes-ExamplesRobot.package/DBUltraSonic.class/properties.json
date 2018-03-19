@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DBSensor",
+	"category" : "DebugScopes-ExamplesRobot",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DBUltraSonic",
+	"type" : "normal"
+}

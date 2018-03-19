@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DLSensorApp",
+	"category" : "DebugScopes-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DLSensorApp2",
+	"type" : "normal"
+}

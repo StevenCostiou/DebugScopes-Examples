@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DebugScopes-ExamplesRobot",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"motors",
+		"sensor",
+		"direction",
+		"running",
+		"process"
+	],
+	"name" : "DBRobot",
+	"type" : "normal"
+}
