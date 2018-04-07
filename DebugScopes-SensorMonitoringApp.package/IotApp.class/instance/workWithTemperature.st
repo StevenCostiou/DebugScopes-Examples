@@ -1,3 +1,3 @@
 accessing
 workWithTemperature
-	Transcript crShow: temperatureSensor readTemperature
+	Transcript crShow: 'Temp: ', temperatureSensor readTemperature printString

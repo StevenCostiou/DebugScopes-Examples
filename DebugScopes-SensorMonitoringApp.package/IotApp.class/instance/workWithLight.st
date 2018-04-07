@@ -1,3 +1,3 @@
 accessing
 workWithLight
-	Transcript crShow: lightSensor readLight
+	Transcript crShow: 'Light: ',lightSensor readLight printString
